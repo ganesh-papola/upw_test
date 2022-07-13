@@ -1,0 +1,89 @@
+@import "./colors.scss";
+@import "./mixins.scss";
+
+@function px_to_rem($value) {
+  $remValue: ($value / 16) + rem;
+  @return $remValue;
+}
+
+$font-weight-bold: 700;
+$font-weight-high: 600;
+$font-weight-mid: 500;
+$font-weight-light-mid: 400;
+$font-weight-light: 300;
+$font-weight-low: 200;
+
+$font-size-36: px_to_rem(36);
+$font-size-34: px_to_rem(34);
+$font-size-32: px_to_rem(32);
+$font-size-30: px_to_rem(30);
+$font-size-28: px_to_rem(28);
+$font-size-26: px_to_rem(26);
+$font-size-24: px_to_rem(24);
+$font-size-22: px_to_rem(22);
+$font-size-20: px_to_rem(20);
+$font-size-18: px_to_rem(18);
+$font-size-16: px_to_rem(16);
+$font-size-14: px_to_rem(14);
+$font-size-13: px_to_rem(13);
+$font-size-12: px_to_rem(12);
+
+.w100 {
+  width: 100% !important;
+}
+
+.w80 {
+  width: 80% !important;
+
+  @media (max-width: 720px) {
+    width: 100% !important;
+  }
+}
+
+.w70 {
+  width: 70% !important;
+
+  @media (max-width: 720px) {
+    width: 100% !important;
+  }
+}
+
+.w60 {
+  width: 60% !important;
+
+  @media (max-width: 720px) {
+    width: 100% !important;
+  }
+}
+
+.w50 {
+  width: 50% !important;
+
+  @media (max-width: 720px) {
+    width: 100% !important;
+  }
+}
+
+.w40 {
+  width: 40% !important;
+
+  @media (max-width: 720px) {
+    width: 100% !important;
+  }
+}
+
+.w30 {
+  width: 30% !important;
+
+  @media (max-width: 720px) {
+    width: 100% !important;
+  }
+}
+
+.w20 {
+  width: 20% !important;
+
+  @media (max-width: 720px) {
+    width: 100% !important;
+  }
+}

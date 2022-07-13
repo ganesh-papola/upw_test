@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomButton test this is components snapshot rendering test 1`] = `
+<div>
+  <header
+    class="header"
+  >
+    <div
+      class="headerHead"
+    >
+      <span
+        class="headerHeadTitle"
+      >
+        Dashboard
+      </span>
+      <div
+        class="headerHeadMenu"
+      />
+    </div>
+    <div
+      class="headerTabs"
+    >
+      <div
+        class="headerTabsGroup headerTabsLeft"
+      >
+        <div
+          class="headerTabsGroupItems"
+        >
+          About
+        </div>
+      </div>
+      <div
+        class="headerTabsGroup headerTabsRight"
+      >
+        <div
+          class="headerTabsGroupItems"
+        >
+          Sign Out
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Header test this is components snapshot rendering test 1`] = `
+<div>
+  <header
+    class="header"
+  >
+    <div
+      class="headerHead"
+    >
+      <span
+        class="headerHeadTitle"
+      >
+        Dashboard
+      </span>
+      <div
+        class="headerHeadMenu"
+      />
+    </div>
+    <div
+      class="headerTabs"
+    >
+      <div
+        class="headerTabsGroup headerTabsLeft"
+      >
+        <div
+          class="headerTabsGroupItems"
+        >
+          About
+        </div>
+      </div>
+      <div
+        class="headerTabsGroup headerTabsRight"
+      >
+        <div
+          class="headerTabsGroupItems"
+        >
+          Sign Out
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+`;

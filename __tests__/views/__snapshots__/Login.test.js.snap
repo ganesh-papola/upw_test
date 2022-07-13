@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard test this is components snapshot rendering test 1`] = `
+<div>
+  <section
+    class="login"
+  >
+    <section
+      class="formSection"
+    >
+      <div
+        class="headingSection"
+      >
+        <label
+          class="title"
+        >
+          Sign in
+        </label>
+      </div>
+      <div
+        class="formContainer"
+      >
+        <div
+          class="formSubContainer"
+        >
+          <form
+            action="#"
+          >
+            <div
+              class="inputContainer loginInputContainer"
+            >
+              <div
+                class="formGroup"
+              >
+                <input
+                  class="formField"
+                  id="login__0"
+                  max="100"
+                  min="10"
+                  name="Username"
+                  placeholder="Username"
+                  type="text"
+                  value=""
+                />
+              </div>
+              <div
+                class="inputContainerLabelDiv"
+              >
+                <span
+                  class="inputContainerError"
+                />
+              </div>
+            </div>
+            <div
+              class="inputContainer loginInputContainer"
+            >
+              <div
+                class="formGroup"
+              >
+                <input
+                  class="formField"
+                  id="login__1"
+                  max="100"
+                  min="10"
+                  name="Password"
+                  placeholder="Password"
+                  type="password"
+                  value=""
+                />
+              </div>
+              <div
+                class="inputContainerLabelDiv"
+              >
+                <span
+                  class="inputContainerError"
+                />
+              </div>
+            </div>
+            <div
+              class="buttonContainer"
+            >
+              <button
+                class="button"
+                type="submit"
+              >
+                Sign in
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </section>
+</div>
+`;

@@ -1,0 +1,16 @@
+@import "../index.scss";
+
+.section {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    @extend %flex-center;
+    height: 60% !important;
+    width: 80% !important;
+    margin: 60px;
+  @media (max-width: 720px) {
+    width: 100% !important;
+    height: 90% !important;
+  }
+}

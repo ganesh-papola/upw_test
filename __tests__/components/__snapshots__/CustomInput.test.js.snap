@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomButton test this is components snapshot rendering test 1`] = `
+<div>
+  <div
+    class="inputContainer"
+  >
+    <div
+      class="formGroup"
+    >
+      <input
+        class="formField"
+        id="testId123"
+        max="100"
+        min="10"
+        name="test"
+        placeholder="input"
+        type="text"
+        value="Hii"
+      />
+    </div>
+    <div
+      class="inputContainerLabelDiv"
+    >
+      <span
+        class="inputContainerError"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CustomButton test this is components snapshot rendering test 2`] = `
+<div>
+  <div
+    class="inputContainer"
+  >
+    <div
+      class="formGroup"
+    >
+      <input
+        class="formField"
+        id="testId123"
+        max="100"
+        min="10"
+        name="test"
+        placeholder="input"
+        type="text"
+        value="Hii"
+      />
+    </div>
+    <div
+      class="inputContainerLabelDiv"
+    >
+      <span
+        class="inputContainerError"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CustomButton test this is components snapshot rendering test with error 1`] = `
+<div>
+  <div
+    class="inputContainer"
+  >
+    <div
+      class="formGroup"
+    >
+      <input
+        class="formField"
+        id="testId123"
+        max="100"
+        min="10"
+        name="test"
+        placeholder="input"
+        type="text"
+        value="Hii"
+      />
+    </div>
+    <div
+      class="inputContainerLabelDiv"
+    >
+      <span
+        class="inputContainerError"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CustomInput test this is components snapshot rendering test 1`] = `
+<div>
+  <div
+    class="inputContainer"
+  >
+    <div
+      class="formGroup"
+    >
+      <input
+        class="formField"
+        id="testId123"
+        max="100"
+        min="10"
+        name="test"
+        placeholder="input"
+        type="text"
+        value="Hii"
+      />
+    </div>
+    <div
+      class="inputContainerLabelDiv"
+    >
+      <span
+        class="inputContainerError"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CustomInput test this is components snapshot rendering test with error 1`] = `
+<div>
+  <div
+    class="inputContainer"
+  >
+    <div
+      class="formGroup"
+    >
+      <input
+        class="formField"
+        id="testId123"
+        max="100"
+        min="10"
+        name="test"
+        placeholder="input"
+        type="text"
+        value="Hii"
+      />
+    </div>
+    <div
+      class="inputContainerLabelDiv"
+    >
+      <span
+        class="inputContainerError"
+      />
+    </div>
+  </div>
+</div>
+`;
